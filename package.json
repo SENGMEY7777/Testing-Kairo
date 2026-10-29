@@ -1,0 +1,15 @@
+{
+  "name": "promt-auth-api",
+  "version": "1.0.0",
+  "description": "Zero-setup Node.js Express Authentication API using MVC and Service Layer",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
